@@ -47,6 +47,8 @@ class RNN:
         NotImplementedError
 
 
+    def train(self,sequence_list):
+
 
 if __name__ == '__main__':
     # example task #1: teach the RNN to Count
